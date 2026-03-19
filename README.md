@@ -1,2 +1,3 @@
 # Raman-s-first-repository
-My first repository.
+This is my first Git repository.
+Author- Raman Ollala
